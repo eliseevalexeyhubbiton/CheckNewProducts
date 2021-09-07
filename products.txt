@@ -1,0 +1,3 @@
+https://site/sub/search?search=SEARCH_01&page=1
+https://site/sub/search?search=SEARCH_02&page=1
+https://site/sub/search?search=SEARCH_03
